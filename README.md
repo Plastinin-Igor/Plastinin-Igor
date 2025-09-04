@@ -1,5 +1,12 @@
 ## Hi there 👋
 ### Java backend developer | Oracle database developer
+
+## 💻 Stack:
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Plastinin-Igor)
+
+
 <!--
 **Plastinin-Igor/Plastinin-Igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
